@@ -1,2 +1,17 @@
-# blog-uniplatzi
-Es un proyecto dedicado al crecimiento de la comunidad universitaria a través de un blog de eventos.
+Blog Universidad
+
+[Descripción del proyecto]
+
+[Istalación]
+-Requisitos
+-Versión
+-Encargados del proyecto
+
+
+[Uso]
+
+[Documentación]
+
+[Roadmap]
+
+[Licencia]
