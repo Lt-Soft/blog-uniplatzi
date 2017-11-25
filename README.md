@@ -2,10 +2,11 @@ Blog Universidad
 
 [Descripción del proyecto]
 
-[Istalación]
--Requisitos
--Versión
--Encargados del proyecto
+[Instalación]
+
+- Requisitos
+- Versión
+- Encargados del proyecto
 
 
 [Uso]
